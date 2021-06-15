@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 This is 彭于斌!
+
+- 🔭 I’m currently working on ZENO, a node system framework for simulation.
+- 🌱 I’m currently learning C++17 programming skills from @littlemine.
+- 👯 I’m looking to collaborate on physics simulation developers.
+- 🤔 I’m looking for help with who can beautify my node editor.
+- 💬 Ask me about computer graphics and operating system.
+- 📫 How to reach me: By E-mail 1931127624@qq.com.
+
+![Archibate's GitHub stats](https://github-readme-stats.vercel.app/api?username=archibate&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=archibate&layout=compact&count_private=true&theme=dark)
+
+[Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate)
 
 <!--
 **archibate/archibate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
