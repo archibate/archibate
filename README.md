@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on physics simulation developers.
 - 🤔 I’m looking for help with who can beautify my node editor.
 - 💬 Ask me about computer graphics and operating system.
-- 📫 How to reach me: By E-mail 1931127624@qq.com.
+- 📫 How to reach me: 1931127624@qq.com (or its alias: archibate@foxmail.com).
+- 😄 Pronouns: he, she, you, me, I, we, us, this, them, that.
+- ⚡ Fun fact: I'm a remote employee from Shanghai to Shenzhen :)
 
 ![Archibate's GitHub stats](https://github-readme-stats.vercel.app/api?username=archibate&count_private=true&theme=dark)
 
