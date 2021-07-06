@@ -19,7 +19,7 @@ I make elegantly robust **💻 computer graphics and 🐧 operating system** whe
 
 [Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate) | [WeChat @ tanh233](/)
 
-![image](https://user-images.githubusercontent.com/20640597/124543364-b5e2e900-de57-11eb-9918-9e227ab4a056.png)
+![offline rendering picture](https://user-images.githubusercontent.com/20640597/124543364-b5e2e900-de57-11eb-9918-9e227ab4a056.png "rendered by archibate/ptina")
 
 <!--
 **archibate/archibate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
