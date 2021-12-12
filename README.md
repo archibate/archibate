@@ -8,7 +8,7 @@ I make elegantly robust **💻 computer graphics and 🐧 operating system** whe
 - 🤔 I’m looking for help with who can beautify my node editor.
 - 🎓 I'm a college student major in software engineering :)
 - 💬 Ask me about computer graphics and operating system.
-- 📫 How to reach me: archibate@foxmail.com or Bilibili message (see below).
+- 📫 How to reach me: archibate@foxmail.com or [Bilibili message](https://space.bilibili.com/263032155/).
 - 😄 Pronouns: he, she, you, me, I, we, us, this, them, that.
 - ⚡ Fun fact: I'm a remote employee from Shanghai to Shenzhen :)
 - 🕵 Take a look at my repositories and let's get in touch!
