@@ -2,12 +2,12 @@
 
 I make elegantly robust **💻 computer graphics and 🐧 operating system** wheels for fun. 🌈  
 
-- 🔭 I’m currently working on ZENO, a node system framework for simulation.
+- 🔭 I’m currently working on [ZENO](https://github.com/zenustech/zeno), a node system framework for simulation.
 - 🌱 I’m currently teaching a [public course](https://github.com/parallel101/course) on parallel programming in C++17.
 - 👯 I’m looking to collaborate on physics simulation developers.
-- 🤔 I’m looking for help with who can beautify my node editor.
+- 🤔 I’m looking for help with who could be my teacher assistant.
 - 🎓 I'm a college student major in software engineering :)
-- 💬 Ask me about computer graphics and operating system.
+- 💬 Ask me about computer graphics and modern C++ tips & tricks.
 - 📫 How to reach me: archibate@foxmail.com or [Bilibili message](https://space.bilibili.com/263032155/).
 - 😄 Pronouns: he, she, you, me, I, we, us, this, them, that.
 - ⚡ Fun fact: I'm a remote employee from Shanghai to Shenzhen :)
