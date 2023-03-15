@@ -12,13 +12,13 @@
 | 政治面貌 | 群众 |
 | 学历 | 本科 |
 
-GitHub 老用户，热爱开源事业，熟练运用 Git 和 GitHub，与其他员工实现分工合作。能够 review 他人的 pull request，指出代码中的 BUG，并要求员工遵守代码规范。
+热爱并投身于开源事业，熟练运用 Git 和 GitHub，与其他同事分工合作。能够 review 他人的 pull request，指出代码中的 BUG，严格代码规范。
 
 - 目前在泽森科工有限公司主导研发基于节点的图形引擎 Zeno（[zenustech/zeno](https://github.com/zenustech/zeno)），由于学校需要，人在上海，上课的空闲时间远程办公，研发 Zeno，我们的官方网站: http://zenustech.com
 - [Zeno 早期版本中](https://github.com/zenustech/zeno/tree/zeno_old_stable) 为本人自行用 PyQt5 编写的节点编辑器，调用同样为本人自研的后端节点执行引擎，后来转型到 C++ Qt 前端转手交给其他同事负责。
 - 早期版本采用 pybind11 从 Python 调用 C++，[当前版本](https://github.com/zenustech/zeno) 改为 Python 作为可选的扩展插件语言，Python 端通过 ctypes 直接调用 Zeno C API。
 
-熟练运用 C++17 和部分 C++20 新特性，常看 CppCon，能运用元编程思想在 C++ 中开发可复用的程序组件，会用现代 CMake 构建程序。具有分享精神，乐于帮他人解决编程中遇到的各种疑难杂症，擅长用幽默风趣的语言，教会他人新知识。
+熟练运用 C++17 和部分 C++20 新特性，熟悉 RAII 内存管理和内存安全，能够运用现代 C++ 写出安全的代码。学习能力强，很快就能掌握新知识，常看 CppCon，能运用元编程思想在 C++ 中开发可复用的程序组件，会用现代 CMake 构建程序。具有分享精神，乐于帮他人解决编程中遇到的各种疑难杂症，擅长用幽默风趣的语言，教会他人新知识。
 
 - 制作了 C++ 编程系列公开课《高性能并行编程与优化》（parallel101/course），目前更新到第 16 集，录播可在[比站免费观看](https://www.bilibili.com/video/BV1V84y117YU)，广受同学好评。内容涵盖并行计算（包括 TBB 和 CUDA），现代 C++ 特性，C++11 多线程编程，内存模型，SIMD 优化等。对性能优化有一定经验，了解 CPU 和 GPU 的物理结构，理解缓存局域性对性能的[影响](https://www.bilibili.com/video/BV1gu41117bW)。
 
@@ -72,3 +72,8 @@ GitHub 老用户，热爱开源事业，熟练运用 Git 和 GitHub，与其他�
 
 - 为《以撒的结合》制作了一系列功能性模组，并上传到 [Steam 创意工坊](https://steamcommunity.com/id/archibate/myworkshopfiles/?appid=250900)，广受玩家好评。
 - 我个人自用的 [NeoVim 配置](https://github.com/archibate/vimrc/tree/nvim)
+
+其他项目。
+
+- 基于 JSP 的象棋在线对战系统（[archibate/jsp-chess](https://github.com/archibate/jsp-chess)），MySQL 数据库，Docker 部署，支持人人对战核人机对战。
+- 人脸识别实验项目（[archibate/facereco](https://github.com/archibate/facereco)），后来用于互联网应用大赛的“云课堂”考试时的人脸检测，防止学生代考作弊。
