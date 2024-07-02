@@ -19,6 +19,10 @@ I make elegantly robust **💻 computer graphics and 🐧 operating system** whe
 
 [Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate) | [Zhihu @ 幼儿园理化笙](https://www.zhihu.com/people/di-san-miao-mo-de-shuang-qu-zheng-qie-43) | [WeChat @ tanh233](/)
 
+### Sponsership
+
+![afdian-qrcode](https://142857.red/afdian-qrcode.jpg)
+
 <!--
 ![offline rendering picture](https://user-images.githubusercontent.com/20640597/124543364-b5e2e900-de57-11eb-9918-9e227ab4a056.png "rendered by archibate/ptina")
 
