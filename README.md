@@ -21,7 +21,7 @@ I make elegantly robust **💻 computer graphics and 🐧 operating system** whe
 
 ### Sponsership
 
-<a href="http://afdian.net/a/archibate"><img src="https://142857.red/afdian-qrcode.jpg" alt="http://afdian.net/a/archibate" width="400px"/></a>
+<a href="http://afdian.net/a/archibate"><img src="https://142857.red/afdian-qrcode.jpg?" alt="http://afdian.net/a/archibate" width="400px"/></a>
 
 <!--
 ![offline rendering picture](https://user-images.githubusercontent.com/20640597/124543364-b5e2e900-de57-11eb-9918-9e227ab4a056.png "rendered by archibate/ptina")
