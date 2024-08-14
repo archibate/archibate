@@ -17,7 +17,7 @@ I make elegantly robust **💻 computer graphics and 🐧 operating system** whe
 ![Archibate's GitHub stats](https://github-readme-stats.vercel.app/api?username=archibate&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=archibate&layout=compact&count_private=true&theme=dark)
 
-[Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate) | [Zhihu @ 幼儿园理化笙](https://www.zhihu.com/people/di-san-miao-mo-de-shuang-qu-zheng-qie-43) | [WeChat @ tanh233](/)
+[Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate) | [Zhihu @ 幼儿园理化笙](https://www.zhihu.com/people/di-san-miao-mo-de-shuang-qu-zheng-qie-43) | [WeChat @ tanh233](/) | [Online Resume](https://rxresu.me/archibate/peng-cpp)
 
 ### Sponsership
 
