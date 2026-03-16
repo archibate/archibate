@@ -19,13 +19,15 @@ I make elegantly robust **💻 computer graphics and 🐧 operating system** whe
 
 [Bilibili @ 双笙子佯谬](https://space.bilibili.com/263032155/) | [Twitter @ archibate](https://twitter.com/archibate) | [Gitee @ archibate](https://gitee.com/archibate) | [Steam @ archibate](https://steamcommunity.com/id/archibate) | [Zhihu @ 幼儿园理化笙](https://www.zhihu.com/people/di-san-miao-mo-de-shuang-qu-zheng-qie-43) | [WeChat @ tanh233](/) | [Online Resume](https://rxresu.me/archibate/peng-cpp)
 
+![offline rendering picture](https://user-images.githubusercontent.com/20640597/124543364-b5e2e900-de57-11eb-9918-9e227ab4a056.png "rendered by archibate/ptina")
+
+<!--
 ### Sponsership
 
 <a href="http://afdian.com/a/archibate"><img src="https://142857.red/afdian-qrcode.jpg?z=1" alt="http://afdian.com/a/archibate" width="400px"/></a>
+-->
 
 <!--
-![offline rendering picture](https://user-images.githubusercontent.com/20640597/124543364-b5e2e900-de57-11eb-9918-9e227ab4a056.png "rendered by archibate/ptina")
-
 **archibate/archibate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
